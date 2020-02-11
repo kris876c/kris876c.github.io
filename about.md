@@ -6,10 +6,13 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Om mig 
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Kontakt info
 
-[email@domain.com](mailto:email@domain.com)
+Kristoffer Oliver Bøttcher 
+[krisboetthcer@live.dk](mailto:krisboettcher@live.dk)
+
+TLF: +45 28 28 28 28
