@@ -8,7 +8,9 @@ Some information about you!
 
 ### Om mig 
 
-A place to include any other types of information that you'd like to include about yourself.
+Jeg er i gang med mit fjerde semester som datamatiker, og denne hjemmeside viser min portfølje og kompetenser indenfor programmering. 
+//A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Kontakt info
 
