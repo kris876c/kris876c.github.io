@@ -9,8 +9,11 @@ Jeg er i gang med mit fjerde semester som datamatiker
 ### Færdigheder 
 
 C#
+
 SQL
+
 HTML
+
 JAVA
 
 
