@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Læringsplan
-permalink: /laeringsplan/
+permalink: /læringsplan/
 ---
 
