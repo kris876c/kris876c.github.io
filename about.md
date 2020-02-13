@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about /
+permalink: /about/
 ---
 
 Jeg er i gang med mit fjerde semester som datamatiker
