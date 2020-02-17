@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erfa Gruppe Møde - IT sikkerhed
+title: ERFA Gruppe Møde - IT sikkerhed
 ---
 
 Til Erfamødet i dag om IT sikkerhed udvekslede vi forskellige kilder vi har benyttet og fundet indtil videre.
