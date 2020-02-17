@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERFA gruppe møde - Projektstyring
+title: ERFA Gruppe Møde - Projektstyring
 ---
 
 Til mødet snakkede vi meget hvilke emner vi kunne speciallisere os indefor, 
