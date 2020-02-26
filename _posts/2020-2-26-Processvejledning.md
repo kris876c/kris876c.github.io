@@ -26,7 +26,7 @@ Efter mødet satte jeg mig til at lære mere om scrum og den agile arbejdsform,
 så jeg så denne video: 
 <li>
   https://www.youtube.com/watch?v=TvUp8DYL24k
-  
-  
-
-   
+ 
+ Den handler om processtyring og hvordan man "rigtigt" bruger den agile arbejdsform, 
+ samt gode råd til hvordan man implementere det ind i sit projekt.
+ Han snakker også i videoen om "the agile manifesto" som vi også har snakket om til erfamøder.
