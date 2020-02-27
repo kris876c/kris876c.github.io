@@ -1,6 +1,6 @@
 ---
-layout: default
-Title: Processvejledning
+layout: post
+title: PicoCTF 2019 Guide
 ---
 
 Lektie: Lav evaluering til læringsplan. 
