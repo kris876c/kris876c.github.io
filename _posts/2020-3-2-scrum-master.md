@@ -2,6 +2,7 @@
 layout: post
 title: Projekstyring med scrum og stand up
 ---
+I dag har jeg gået i gang med at lære om scrum, den agile arbejdsform og stand up, for bedre at kunne implementere det for gruppen. 
 
 Kilder: 
 
