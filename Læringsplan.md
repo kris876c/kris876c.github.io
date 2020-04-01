@@ -220,7 +220,8 @@ permalink: /læringsplan/
     
     skillshare
     
-    interview med virksomhed</td>
+    interview med virksomhed
+    </td>
     <td class="tg-0pky">afspejler brugen af kanban dens teori</td>
     <td class="tg-0pky"></td>
   </tr>
