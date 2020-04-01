@@ -214,13 +214,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil genre lære om kanban, hvordan kanbans arbejdtsprocess gør sig anderledes frem for andre projektstyringsværktøjer.</td>
-    <td class="tg-0pky">Jeg har benyttet mig af 
-    
-    youtube
-    
-    skillshare
-    
-    interview med virksomhed
+    <td class="tg-0pky">Jeg har benyttet mig af youtube skillshare interview med virksomhed
     </td>
     <td class="tg-0pky">afspejler brugen af kanban dens teori</td>
     <td class="tg-0pky"></td>
