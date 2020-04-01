@@ -231,12 +231,6 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jeg vil opsætte matrixer for mit team evner og færdigheder for starten af dette sprint og måle dem igen i slutningen. Jeg vil måle på softskills og deres viden og evner inden for software development. </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 4</td>
     <td class="tg-fymr"></td>
     <td class="tg-fymr"></td>
