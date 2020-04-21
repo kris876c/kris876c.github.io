@@ -214,14 +214,8 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg har fået en general forståelse på hvordan kanban bruges og hvordan det gør sig anderledes i forhold til andre projektstyringsværktøjer. Jeg har fundet teori og benyttet det i praktis for at få nogle kompetancer med det.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jeg vil lære at bruge indiviets værdier i et team for at øge arbejdsprocessen</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
     <td class="tg-0pky">Jeg vil lære at arbejde rigtigt agilt og ikke bare ud efter en skabelon og hvilke krav der skal til for at man arbejder agilt.</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">-interview med hollandsk virksomhed<br /><br />-agile manifesto<br /><br /> Scrum Certification Prep +Scrum Master+ Agile Scrum Training</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -239,7 +233,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil være lære om pentesting, hvilke redskaber man kan bruge og hvad det kan bruges til .</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">-udemy <br /><br /> -advanced penetration testing bøg</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
