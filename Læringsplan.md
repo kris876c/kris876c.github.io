@@ -70,8 +70,8 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil ha en forståelse for hvordan virksomheder kan beskytte sig imod hackerangreb, også hvordan og hvilke overvejelser vores PO har gjort sig for sin virksomhed</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"> -interview med PO</td>
+    <td class="tg-0pky"> </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
