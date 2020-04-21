@@ -215,8 +215,8 @@ permalink: /læringsplan/
   <tr>
     <td class="tg-0pky">Jeg vil genre lære om kanban, hvordan kanbans arbejdtsprocess gør sig anderledes frem for andre projektstyringsværktøjer.</td>
     <td class="tg-0pky">Jeg har benyttet mig af youtube, skillshare og interview med virksomhed</td>
-    <td class="tg-0pky">afspejler brugen af kanban dens teori</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg skal være sikker på at det som jeg bruger kanban til også afspejler den teori jeg har læst om kanban.</td>
+    <td class="tg-0pky">Jeg har fået en general forståelse på hvordan kanban bruges og hvordan det gør sig anderledes i forhold til andre projektstyringsværktøjer. Jeg har fundet teori og benyttet det i praktis for at få nogle kompetancer med det.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil lære at bruge indiviets værdier i et team for at øge arbejdsprocessen</td>
