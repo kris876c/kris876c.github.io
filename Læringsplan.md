@@ -234,13 +234,13 @@ permalink: /læringsplan/
   <tr>
     <td class="tg-0pky">Jeg vil være lære om pentesting, hvilke redskaber man kan bruge og hvad det kan bruges til .</td>
     <td class="tg-0pky">-udemy <br /><br /> -advanced penetration testing bøg</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg skal kunne bruge dette til selv at kunne udføre pentesting i et senere sprint</td>
+    <td class="tg-0pky">Jeg har lært den basale forståelse for pentesting. </td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil lære om GDPR og lave nogle cases og sætte begreber på deres brug. </td>
-    <td class="tg-0pky">Jeg researcher cases hvor GDPR har været brug for virksomheder og hvor der har været udfordringer</td>
-    <td class="tg-0pky">H</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg researcher cases hvor GDPR har været brug for virksomheder og hvor der har været udfordringer. </td>
+    <td class="tg-0pky"> casene skal have sat de rigtige begreber på inden for relevante emner.</td>
+    <td class="tg-0pky">Jeg har analyseret nogle cases og derfra fået et store indblik i hvordan gdpr påvikrer virksomheder og skal håndteres.</td>
   </tr>
 </table>
