@@ -65,17 +65,11 @@ permalink: /læringsplan/
   <tr>
     <td class="tg-0pky">Jeg skal have en forståelse på basisk hacking, hvis man gerne vil hacke hvilke redskaber er der så til rådighed og hvordan bruger man de forskellige.</td>
     <td class="tg-0pky">picoctf 2018 -2019</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg skal være opmærksom på redskaberne og deres relevance for hacking, altså hvor bliver det brugt og til hvad. </td>
+    <td class="tg-0pky">Jeg har gennemført de forskellige kurser og hacking turneringen, dette har givet mig en forståelse på hvordan jeg finder frem til forskellige løsninger på hacking opgaver og hvordan jeg skal researche mig frem til nye redskaber.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil ha en forståelse for hvordan virksomheder kan beskytte sig imod hackerangreb, også hvordan og hvilke overvejelser vores PO har gjort sig for sin virksomhed</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Jeg vil læse o</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
