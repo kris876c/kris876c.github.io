@@ -70,8 +70,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil ha en forståelse for hvordan virksomheder kan beskytte sig imod hackerangreb, også hvordan og hvilke overvejelser vores PO har gjort sig for sin virksomhed</td>
-    <td class="tg-0pky"> -interview med PO 
-    https://docs.google.com/document/d/1HFNIVP3gqV3aXW3Wrp_r0L8cIVDp6vtpPPIrh4Fbd0E/edit?usp=sharing
+    <td class="tg-0pky"> -interview med PO
     </td>
     <td class="tg-0pky">Tag udgangspunkt i PO's virksomhed for at finde eksempler på hvordan en virksomhed beskytter sig. </td>
     <td class="tg-0pky">Jeg kan lave en kvalificeret vurdering på om den sikring som en virksomhed har gjort sig er tilstrækkeligt.</td>
@@ -90,8 +89,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil undersøge og lære mere om hvordan man arbejder agilt på den rigtige måde</td>
-    <td class="tg-0pky"> -skillshare
-    -youtube</td>
+    <td class="tg-0pky"> skillshare<br /><br /> youtube</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
