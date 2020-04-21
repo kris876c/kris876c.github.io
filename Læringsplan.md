@@ -245,14 +245,8 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil lære om GDPR og lave nogle cases og sætte begreber på deres brug. </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Jeg vil lære om wireshark </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg researcher cases hvor GDPR har været brug for virksomheder og hvor der har været udfordringer</td>
+    <td class="tg-0pky">H</td>
     <td class="tg-0pky"></td>
   </tr>
 </table>
