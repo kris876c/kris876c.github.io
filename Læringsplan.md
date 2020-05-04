@@ -243,4 +243,64 @@ permalink: /læringsplan/
     <td class="tg-0pky"> casene skal have sat de rigtige begreber på inden for relevante emner.</td>
     <td class="tg-0pky">Jeg har analyseret nogle cases og derfra fået et store indblik i hvordan gdpr påvikrer virksomheder og skal håndteres.</td>
   </tr>
+    <tr>
+    <td class="tg-fymr">Projektstyring - Sprint 5 </td>
+    <td class="tg-fymr"></td>
+    <td class="tg-fymr"></td>
+    <td class="tg-fymr"></td>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Mål</td>
+    <td class="tg-7btt">Teknik/værktøj</td>
+    <td class="tg-7btt">Kriterier</td>
+    <td class="tg-7btt">Evaluering</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">It-sikkerhed - Sprint 5 </td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Mål</td>
+    <td class="tg-7btt">Teknik/værktøj</td>
+    <td class="tg-7btt">Kriterier</td>
+    <td class="tg-7btt">Evaluering</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pentesting</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
 </table>
