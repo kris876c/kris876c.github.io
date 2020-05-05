@@ -256,8 +256,8 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg skal gå mere i dybden med jira, og bruge det til at kunne dokumentere gruppen arbejde mere.</td>
+    <td class="tg-0pky">jira, med forskellige plugin værktøjer fx. rapporter</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -286,13 +286,13 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pentesting</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg skal have undersøgt om de forskellige værktøjer man bruger når man benytter sig om pentesting</td>
+    <td class="tg-0pky">tryhackme og hackthebox</td>
+    <td class="tg-0pky">jeg skal kunne benytte disse til at </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
