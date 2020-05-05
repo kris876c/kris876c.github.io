@@ -258,7 +258,7 @@ permalink: /læringsplan/
   <tr>
     <td class="tg-0pky">Jeg skal gå mere i dybden med jira, og bruge det til at kunne dokumentere gruppen arbejde mere.</td>
     <td class="tg-0pky">jira, med forskellige plugin værktøjer fx. rapporter</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">giver dette gavn for vores projektstyring? kan dette bruges til at skabe gavn for fremtidige projekter? </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@ permalink: /læringsplan/
   <tr>
     <td class="tg-0pky">Jeg skal have undersøgt om de forskellige værktøjer man bruger når man benytter sig om pentesting</td>
     <td class="tg-0pky">tryhackme og hackthebox</td>
-    <td class="tg-0pky">jeg skal kunne benytte disse til at </td>
+    <td class="tg-0pky">Kan disse værktøjer benyttes? kan virksomheden få gavn af at penetrationteste deres egne systemer? </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
