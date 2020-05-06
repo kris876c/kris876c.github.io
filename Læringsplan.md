@@ -262,9 +262,9 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil kunne facilitere dokumentationen for vores projekt, ved hjælp af artifakter fra vores projektstyringsværktøjer og de rapportværktøjer der er i jira.</td>
+    <td class="tg-0pky">Jira, projektgruppen og erfagruppen</td>
+    <td class="tg-0pky">Kan det bruges vil fremtidige projekter og er det hver at lære om?</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -292,9 +292,9 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg skal vide hvordan man bruger penetration testing til at finde mulige exploits i en virksomhed, for at kunne lappe dem.</td>
+    <td class="tg-0pky">tryhackme og hackthebox</td>
+    <td class="tg-0pky">Kan jeg ud fra min guide og viden om penetration testing skabe gavn for virksomheden?</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
