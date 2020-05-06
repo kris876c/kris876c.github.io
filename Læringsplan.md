@@ -298,7 +298,7 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil kigge på john the ripper og password cracking</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
