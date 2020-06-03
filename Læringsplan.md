@@ -149,9 +149,9 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Interview med hollandsk Programmerings virk</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Interview og netværk</td>
+    <td class="tg-0pky">Jeg skal forholde mig kritisk i forhold til hvad virksomheden bruger og hvad vores gruppe kan benytte. Forholde mig kritisk, bare fordi at det virker for deres virksomhed gør det ikke for alle. </td>
+    <td class="tg-0pky">Mødet var informativt og jeg fik et indblik i hvordan en virksomhed kunne bruge projektstyringsværktøjer, men de havde også emner som jeg ikke kunne bruge fx. matrixer.</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
