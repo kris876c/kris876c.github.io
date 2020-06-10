@@ -291,9 +291,13 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
     <tr>
-    <td class="tg-0pky">Reflektioner </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil skrive mine reflektioner ned over hvilke overvejelser jeg har gjort mig i løbet af projektet med henblik på mine valg af projektstyringsværktøjer.</td>
+    <td class="tg-0pky">Tidligere noter 
+      <br /><br /> Tanker og erfaringer
+      </td>
+    <td class="tg-0pky">hvad er jeg blevet klogere på? 
+      <br /><br /> Hvad har virket godt og hvad har været skidt?
+      </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -309,9 +313,12 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
     <tr>
-    <td class="tg-0pky">guide</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil samle viden til min IT sikkerheds guide og skrive den færdig</td>
+    <td class="tg-0pky">nettet 
+      <br /><br /> Erfa
+      <br /><br /> 
+      </td>
+    <td class="tg-0pky"> kan den bruges af folksomheder eller personer til at sætte sig ind i om deres it sikkerhed er godt nok?</td>
+    <td class="tg-0pky">Guiden har været med til at give mit et overblik over mine resourcer og givet mig mulighed for at samle alle mine informationer. </td>
   </tr>
 </table>
