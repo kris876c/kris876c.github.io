@@ -274,8 +274,8 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil kigge på john the ripper og password cracking</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Youtube <br /><br /> Erfa <br /><br />Netværk </td>
+    <td class="tg-0pky">Jeg vil undesøge i dybden hvordan forskellige password cracking tools virker for at finde ud af hvordan de bliver benyttet af hacker. </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -291,7 +291,7 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
     <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Reflektioner </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -309,7 +309,7 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
     <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">guide</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
