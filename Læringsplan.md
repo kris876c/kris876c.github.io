@@ -278,4 +278,40 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
+  <tr>
+    <td class="tg-fymr">Projektstyring - Sprint 6 </td>
+    <td class="tg-fymr"></td>
+    <td class="tg-fymr"></td>
+    <td class="tg-fymr"></td>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Mål</td>
+    <td class="tg-7btt">Teknik/værktøj</td>
+    <td class="tg-7btt">Kriterier</td>
+    <td class="tg-7btt">Evaluering</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">It-sikkerhed - Sprint 6 </td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Mål</td>
+    <td class="tg-7btt">Teknik/værktøj</td>
+    <td class="tg-7btt">Kriterier</td>
+    <td class="tg-7btt">Evaluering</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
 </table>
