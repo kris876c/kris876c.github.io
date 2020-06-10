@@ -89,14 +89,14 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil undersøge og lære mere om hvordan man arbejder agilt på den rigtige måde</td>
-    <td class="tg-0pky">Jeg har undesøgt de forskellige kritier for hvad der skal til for at man arbejder rigtig agilt, det vi har lært har været skabeloner til den agile arbejdsform. Mange virksomheder påstår at de arbejder agilt selvom at de måske kun bruger værktøjerne, men ikke formen. 
+    <td class="tg-0pky">
       skillshare<br /><br /> youtube<br /><br /> interviews</td>
-    <td class="tg-0pky">Det skal kunne overholde det agile manifesto og </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Det skal kunne overholde det agile manifesto og have brugbarhed i vores projekt.</td>
+    <td class="tg-0pky">Jeg har undesøgt de forskellige kritier for hvad der skal til for at man arbejder rigtig agilt, det vi har lært har været skabeloner til den agile arbejdsform. Mange virksomheder påstår at de arbejder agilt selvom at de måske kun bruger værktøjerne, men ikke formen.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil lære om hvordan man er en scrummaster og hvilke funktioner og indflydelser det har på projektet.</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">youtube<br /><br /> Erfa <br /><br /> Udførelse i projektet.</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
