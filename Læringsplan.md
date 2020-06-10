@@ -91,20 +91,22 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg vil undersøge og lære mere om hvordan man arbejder agilt på den rigtige måde</td>
     <td class="tg-0pky">
       skillshare<br /><br /> youtube<br /><br /> interviews</td>
-    <td class="tg-0pky">Det skal kunne overholde det agile manifesto og have brugbarhed i vores projekt.</td>
+    <td class="tg-0pky">Det skal kunne overholde det agile manifesto og have brugbarhed i vores projekt.
+      <br /><br /> hvilken forskel gør det for vores projekt at vi arbejder rigtig agilt og ikke bare ud fra skabeloner. </td>
     <td class="tg-0pky">Jeg har undesøgt de forskellige kritier for hvad der skal til for at man arbejder rigtig agilt, det vi har lært har været skabeloner til den agile arbejdsform. Mange virksomheder påstår at de arbejder agilt selvom at de måske kun bruger værktøjerne, men ikke formen.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil lære om hvordan man er en scrummaster og hvilke funktioner og indflydelser det har på projektet.</td>
     <td class="tg-0pky">youtube<br /><br /> Erfa <br /><br /> Udførelse i projektet.</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Hvordan bidrager det til vores projekt frem for andre værktøjer?
+    <br /><br /> Passer scrumværktøjerne og scrummasterrollen til vores projekt?</td>
+    <td class="tg-0pky"> Jeg har brugt tid på at læse mere op på hvad en scrummasters pligter og ansvar er, og prøvede at køre det på ind i vores projekt og se hvordan det bidrog.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil lære om de generalle principper i prince2 og hvilke artifakter prince 2 gør brug af. </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><br /><br />youtube <br /><br />Udemy<br /><br />ERFA</td>
+    <td class="tg-0pky">passer prince2 principperne og vores projekt samme? <br /><br /> hvilke elementer i prince2 kan vi bruge i vores projekt?</td>
+    <td class="tg-0pky"> Prince 2 har 7 guiding principper, og da vores projekt er småt og en lille gruppe kan det ikke betale sig at skulle omdirigere alle vores værktøjer efter det. Der er dog stadig gode elementer som vi kan bruge som risks og change</td>
   </tr>
   <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 2 </td>
@@ -119,20 +121,22 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">pba i it sikkerhed</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg har deltaget i undervisning i Pba i it sikkerhed for at finde ud af hvordan en struktureret, førprøvet læring om Cyber security kan se ud</td>
+    <td class="tg-0pky">pba i it sikkerhed <br /><br /> Undervisning</td>
+    <td class="tg-0pky">Giver det mening for mig hvad de lærer på pba'en for hvad vi kan bruge i projektet?</td>
+    <td class="tg-0pky">Efter emil og jeg deltog i undervisningen og fik adgang til deres materialler havde vi masser at gå i gang med. Materiallet havde mere dybde end det vi havde brug for og kunne nå, men det gav et meget godt indblik i hvordan den uddannelse er bygget op og hvilke emner der ville være gode at fokusere på. </td>
   </tr>
   <tr>
     <td class="tg-0pky">wireshark </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Brug af programmet <br /><br /> Picoctf opgave</td>
+    <td class="tg-0pky">hvordan kan wiresharks funktionalitet bruges til at kunne sikre en virksomheds IT sikkerhed? 
+      <br /><br />
+      kan det bruges til at monittorer netværkaktivitet og hvordan kan en viksomhed bruge de informationer?</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">pentesting.</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"> -move-</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
