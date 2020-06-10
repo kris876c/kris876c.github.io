@@ -132,13 +132,7 @@ permalink: /læringsplan/
     <td class="tg-0pky">hvordan kan wiresharks funktionalitet bruges til at kunne sikre en virksomheds IT sikkerhed? 
       <br /><br />
       kan det bruges til at monittorer netværkaktivitet og hvordan kan en viksomhed bruge de informationer?</td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">pentesting.</td>
-    <td class="tg-0pky"> -move-</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg har fået en basis forståelse for programmet, jeg mangler mere erfaring med programmet for at se dets funktionalitet. </td>
   </tr>
   <tr>
     <td class="tg-fymr">Projektstyring - sprint 3 </td>
@@ -153,22 +147,10 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Interview med hollandsk Programmerings virk</td>
+    <td class="tg-0pky">Interview med hollandsk Programmerings virksomhed, deres CTO Israel</td>
     <td class="tg-0pky">Interview og netværk</td>
     <td class="tg-0pky">Jeg skal forholde mig kritisk i forhold til hvad virksomheden bruger og hvad vores gruppe kan benytte. Forholde mig kritisk, bare fordi at det virker for deres virksomhed gør det ikke for alle. </td>
-    <td class="tg-0pky">Mødet var informativt og jeg fik et indblik i hvordan en virksomhed kunne bruge projektstyringsværktøjer, men de havde også emner som jeg ikke kunne bruge fx. matrixer.</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Mødet var informativt og jeg fik et indblik i hvordan en virksomhed kunne bruge projektstyringsværktøjer, men de havde også emner som jeg ikke kunne bruge fx. matrixer. Jeg har skrevet dokumentation for mit interview og brugt nogle af de elementer som han nævnte under interviewet, for at teste i gruppen.</td>
   </tr>
   <tr>
     <td class="tg-0pky">It-sikkerhed - Sprint 3</td>
@@ -184,18 +166,6 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0pky">GDPR</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
