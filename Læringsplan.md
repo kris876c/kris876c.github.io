@@ -243,12 +243,6 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 5 </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
