@@ -345,7 +345,9 @@ permalink: /læringsplan/
      <br /><br /> Nettet
        <br /><br /> 
     </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">hvordan kan jeg perspektivere de foranstaltninger som en virksomhed bruger til andre?
+       <br /><br /> Er de systemer som de bruger hensigtsmæssige for dem?
+    </td>
+    <td class="tg-0pky">Jeg fik genskab til hvordan de beskytter vitec, og hvilke overvejelser de har gjort sig i virksomheden.</td>
   </tr>
 </table>
