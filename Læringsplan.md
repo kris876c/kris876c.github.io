@@ -310,6 +310,12 @@ permalink: /læringsplan/
     <td class="tg-0pky">Guiden har været med til at give mit et overblik over mine resourcer og givet mig mulighed for at samle alle mine informationer. </td>
   </tr>
   <tr>
+    <td class="tg-fymr">Social enginerring, scamcallers reserach</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
     <td class="tg-fymr">Projektstyring - Sprint 7 </td>
     <td class="tg-fymr"></td>
     <td class="tg-fymr"></td>
