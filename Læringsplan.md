@@ -306,7 +306,7 @@ permalink: /læringsplan/
       <br /><br /> Erfa
       <br /><br /> 
       </td>
-    <td class="tg-0pky"> kan den bruges af folksomheder eller personer til at sætte sig ind i om deres it sikkerhed er godt nok?</td>
+    <td class="tg-0pky"> kan den bruges af virkksomheder eller personer til at sætte sig ind i om deres it sikkerhed er godt nok?</td>
     <td class="tg-0pky">Guiden har været med til at give mit et overblik over mine resourcer og givet mig mulighed for at samle alle mine informationer. </td>
   </tr>
   <tr>
@@ -340,8 +340,11 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
   <tr>
-    <td class="tg-fymr"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-fymr">Jeg har interviewt PO omkring deres it sikkerhed og hvilke elementer han har brugt. De informationer har jeg så kunne bruge til at skrive ind i min guide. </td>
+    <td class="tg-0pky">Interview med PO
+     <br /><br /> Nettet
+       <br /><br /> 
+    </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
