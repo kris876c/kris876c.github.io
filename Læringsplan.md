@@ -340,7 +340,7 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
   <tr>
-    <td class="tg-fymr">Jeg har interviewt PO omkring deres it sikkerhed og hvilke elementer han har brugt. De informationer har jeg så kunne bruge til at skrive ind i min guide. </td>
+    <td class="tg-0pky">Jeg har interviewt PO omkring deres it sikkerhed og hvilke elementer han har brugt. De informationer har jeg så kunne bruge til at skrive ind i min guide. </td>
     <td class="tg-0pky">Interview med PO
      <br /><br /> Nettet
        <br /><br /> 
