@@ -6,9 +6,9 @@ permalink: /Reflektioner/
 
 <b>Overvejelser og refleksioner for 4 semester.
 
-<br /><br /><b>Projektstyring
+<br /><br /><b>Projektstyring<br /><br />
 
-Projektstryingsværktøj<br /><br />
+<b>Projektstryingsværktøj<br /><br />
 
 I løbet af dette semester har vi arbejdet med virksomheden Trendlog. 
 I gruppen har vi været 4 medlemmer, og har derfor brugt nogle forskellige projektstyringsværktøjer for at holde øje og måle fremskridtet for forløbet.
@@ -28,17 +28,11 @@ Her kunne vi lave en mindre pipeline som kunne oprette standup dokumentere for h
 Andre i gruppen havde også gode erfaringer med jira, 
 og det gjorde det mere overskueligt at holde styr på hinandens individuelle og fælles dokumenter. 
 
-
-
-
-
-
 <!--De værktøjer vi har brugt til at håndtere vores projekt har været med slack og jira. -->
 <!--hvorfor har vi skiftet værktøjer?-->
 <!--når der er noget der ikke har fungeret, hvad har vi så gjort for at rette op på det?-->
 
-
 <br /><br /><b>it sikkerhed
 
-hvordan har Trendlog beskyttet sig?
+<!--hvordan har Trendlog beskyttet sig?-->
 
