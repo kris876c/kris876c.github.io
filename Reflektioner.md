@@ -28,11 +28,21 @@ Her kunne vi lave en mindre pipeline som kunne oprette standup dokumentere for h
 Andre i gruppen havde også gode erfaringer med jira, 
 og det gjorde det mere overskueligt at holde styr på hinandens individuelle og fælles dokumenter. 
 
-<!--De værktøjer vi har brugt til at håndtere vores projekt har været med slack og jira. -->
-<!--hvorfor har vi skiftet værktøjer?-->
+Vi har siden maj holdt møder hver dag, og arbejdet på projektet samt vores individuelle emner. 
+
+andre emner: gruppens forhold, gruppens behov, agile coach. 
 <!--når der er noget der ikke har fungeret, hvad har vi så gjort for at rette op på det?-->
 
-<br /><br /><b>it sikkerhed
+<br /><br /><b>IT sikkerhed
+
+I løbet af dette semester har vi hold møder med vores PO Lars i starten hver anden uge, og senere hver måned.
+Til disse møder, når vi har snakket om IT sikkerhed, 
+har vi spurgt ind til hvilke overvejelser og sikkerheds systemer som virksomheden har gjort brug af og hvorfor. 
+Vi har derefter snakket om hvad der ville være hensigtmæssigt for Trendlog at have, hvad der er nødvendigt og hvorfor de har brug for det. 
+
+Derefter havde jeg et udgangspunkt at gå efter.
+Som har givet mig et perspektiv til hvad der er nødvendigt for andre virksomheder, og hvornår forskellige foranstaltninger skulle bruges. 
+De emner jeg har kigget på var: Social engineering, penetration testing, protokoller, GDPR og password cracking. 
 
 <!--hvordan har Trendlog beskyttet sig?-->
 
