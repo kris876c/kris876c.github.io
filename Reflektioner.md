@@ -1,12 +1,12 @@
 ---
 layout: page
-title: reflektioner
+title: Reflektioner
 permalink: /Reflektioner/
 --- 
 
-Overvejelser og refleksioner for 4 semester.
+<b>Overvejelser og refleksioner for 4 semester.
 
-<br /><br />Projektstyring
+<br /><br /><b>Projektstyring
 
 Projektstryingsværktøj<br /><br />
 
