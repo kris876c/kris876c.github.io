@@ -33,11 +33,12 @@ og det gjorde det mere overskueligt at holde styr på hinandens individuelle og 
 
 
 
-De værktøjer vi har brugt til at håndtere vores projekt har været med slack og jira. 
-hvorfor har vi skiftet værktøjer?
-når der er noget der ikke har fungeret, hvad har vi så gjort for at rette op på det?
+<!--De værktøjer vi har brugt til at håndtere vores projekt har været med slack og jira. -->
+<!--hvorfor har vi skiftet værktøjer?-->
+<!--når der er noget der ikke har fungeret, hvad har vi så gjort for at rette op på det?-->
 
 
 <br /><br /><b>it sikkerhed
 
 hvordan har Trendlog beskyttet sig?
+
