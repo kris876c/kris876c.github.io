@@ -8,8 +8,6 @@ permalink: /Reflektioner/
 
 <br /><br /><b>Projektstyring<br /><br />
 
-<b>Projektstryingsværktøj<br /><br />
-
 I løbet af dette semester har vi arbejdet med virksomheden Trendlog. 
 I gruppen har vi været 4 medlemmer, og har derfor brugt nogle forskellige projektstyringsværktøjer for at holde øje og måle fremskridtet for forløbet.
 Jeg startede semesteret med at læse om forskellige værktøjer for bedre at kunne udvølge hvilke der passede til os. 
