@@ -258,13 +258,13 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg skal vide hvordan man bruger penetration testing til at finde mulige exploits i en virksomhed, for at kunne lappe dem.</td>
     <td class="tg-0pky">tryhackme og hackthebox</td>
     <td class="tg-0pky">Kan jeg ud fra min guide og viden om penetration testing skabe gavn for virksomheden?</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Pentesting bliver ofte brugt af virksomheder til at teste. Ofte er der en hel toolbox som man løber i gennem og tester for på en virksomhedssystemer for at teste hvor der er huller. BDO er fx en virksomhed som kan give certifikater på systemers sikkerhed.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil kigge på john the ripper og password cracking</td>
     <td class="tg-0pky">Youtube <br /><br /> Erfa <br /><br />Netværk </td>
     <td class="tg-0pky">Jeg vil undesøge i dybden hvordan forskellige password cracking tools virker for at finde ud af hvordan de bliver benyttet af hacker. </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Dette er et læringsmål jeg kun kiggede på overfladisk på, jeg kiggede på forskellige kilder for hvordan de kunne bruges. </td>
   </tr>
   <tr>
     <td class="tg-fymr">Projektstyring - Sprint 6 </td>
@@ -286,7 +286,7 @@ permalink: /læringsplan/
     <td class="tg-0pky">hvad er jeg blevet klogere på? 
       <br /><br /> Hvad har virket godt og hvad har været skidt?
       </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Det gjorde det mere klar for mig at begrunde hvorfor vi har brugt de ting som vi har gjort. Det har også fået mig til at være mere retrospektiv over for mit arbejde og hvilken inflydelse det har haft på arbejdet. </td>
   </tr>
   <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 6 </td>
