@@ -191,8 +191,8 @@ permalink: /læringsplan/
   <tr>
     <td class="tg-0pky">Jeg vil lære at arbejde rigtigt agilt og ikke bare ud efter en skabelon og hvilke krav der skal til for at man arbejder agilt.</td>
     <td class="tg-0pky">-interview med hollandsk virksomhed<br /><br />-agile manifesto<br /><br /> Scrum Certification Prep +Scrum Master+ Agile Scrum Training</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">hvilken betydniong har det for vores projekt at vi arbejder agilt?</td>
+    <td class="tg-0pky">Agilt er mere end hvad vi har lært fra de 2 første semestrer hvor vi primært bare arbejder ud fra skabeloner og ikke justere på gruppens behov. En stor fordel ved at arbejde rigtigt agilt er fleksibiliteten ved at tage højde for gruppens styrker og svagheder, hvilket vi nu har mulighed for at gøre brug af.</td>
   </tr>
   <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 4</td>
@@ -228,7 +228,7 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg skal gå mere i dybden med jira, og bruge det til at kunne dokumentere gruppen arbejde mere.</td>
     <td class="tg-0pky">jira, med forskellige plugin værktøjer fx. rapporter</td>
     <td class="tg-0pky">giver dette gavn for vores projektstyring? kan dette bruges til at skabe gavn for fremtidige projekter? </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg har lært mere om jira og hvilken gavn det kan have for et projekt. Jira er et rigtig godt scalerbart redskab, til både små og store teams men med klart mest gavn for store implementeringer. </td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil kunne facilitere dokumentationen for vores projekt, ved hjælp af artifakter fra vores projektstyringsværktøjer og de rapportværktøjer der er i jira.</td>
