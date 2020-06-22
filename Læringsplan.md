@@ -234,7 +234,7 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg vil kunne facilitere dokumentationen for vores projekt, ved hjælp af artifakter fra vores projektstyringsværktøjer og de rapportværktøjer der er i jira.</td>
     <td class="tg-0pky">Jira, projektgruppen og erfagruppen</td>
     <td class="tg-0pky">Kan det bruges vil fremtidige projekter og er det hver at lære om?</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Dette element havde jeg meget svært ved da vi ikke havde nogle artifakter fra tidligere i projektet. Jeg havde derfor kigget på hvordan Mikkel havde gjort det ud fra hans jira dokumentationer. </td>
   </tr>
   <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 5 </td>
@@ -252,7 +252,7 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg skal have undersøgt om de forskellige værktøjer man bruger når man benytter sig om pentesting</td>
     <td class="tg-0pky">tryhackme og hackthebox</td>
     <td class="tg-0pky">Kan disse værktøjer benyttes? kan virksomheden få gavn af at penetrationteste deres egne systemer? </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Pentesting bliver ofte brugt af virksomheder til at teste. Ofte er der en hel toolbox som man løber i gennem og tester for på en virksomhedssystemer for at teste hvor der er huller. BDO er fx en virksomhed som kan give certifikater på systemers sikkerhed. </td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg skal vide hvordan man bruger penetration testing til at finde mulige exploits i en virksomhed, for at kunne lappe dem.</td>
