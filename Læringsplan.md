@@ -231,12 +231,6 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg har lært mere om jira og hvilken gavn det kan have for et projekt. Jira er et rigtig godt scalerbart redskab, til både små og store teams men med klart mest gavn for store implementeringer. </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jeg vil kunne facilitere dokumentationen for vores projekt, ved hjælp af artifakter fra vores projektstyringsværktøjer og de rapportværktøjer der er i jira.</td>
-    <td class="tg-0pky">Jira, projektgruppen og erfagruppen</td>
-    <td class="tg-0pky">Kan det bruges vil fremtidige projekter og er det hver at lære om?</td>
-    <td class="tg-0pky">Dette element havde jeg meget svært ved da vi ikke havde nogle artifakter fra tidligere i projektet. Jeg havde derfor kigget på hvordan Mikkel havde gjort det ud fra hans jira dokumentationer. </td>
-  </tr>
-  <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 5 </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
