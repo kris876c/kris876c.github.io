@@ -310,10 +310,11 @@ permalink: /læringsplan/
     <td class="tg-0pky">Guiden har været med til at give mit et overblik over mine resourcer og givet mig mulighed for at samle alle mine informationer. </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Social enginerring, scamcallers reserach</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil researche scamcallers for at få en bedre forståelse indenfor social engineering. </td>
+    <td class="tg-0pky">Nettet
+    <br /><br /> Youtube </td>
+    <td class="tg-0pky">Hvordan bruger scamcallers social engineering til at tilegne sig adgang? hvad kan det bruges til og hvad får de ud af det? </td>
+    <td class="tg-0pky">Social engineering er nemmest når ofret er naiv og godtroende, på samme måde med scamcallers, kan det virke hvis man skaber bare en smule tillid eller autoritet. </td>
   </tr>
   <tr>
     <td class="tg-fymr">Projektstyring - Sprint 7 </td>
@@ -328,10 +329,10 @@ permalink: /læringsplan/
     <td class="tg-7btt">Evaluering</td>
   </tr>
    <tr>
-    <td class="tg-fymr"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil kunne facilitere dokumentationen for vores projekt, ved hjælp af artifakter fra vores projektstyringsværktøjer og de rapportværktøjer der er i jira.</td>
+    <td class="tg-0pky">Jira, projektgruppen og erfagruppen</td>
+    <td class="tg-0pky">Kan det bruges vil fremtidige projekter og er det hver at lære om?</td>
+    <td class="tg-0pky">Dette element havde jeg meget svært ved da vi ikke havde nogle artifakter fra tidligere i projektet. Jeg havde derfor kigget på hvordan Mikkel havde gjort det ud fra hans jira dokumentationer. </td>
   </tr>
   <tr>
     <td class="tg-fymr">It-sikkerhed - Sprint 7 </td>
